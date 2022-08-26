@@ -4,7 +4,7 @@ function divide(number1 = 2000, number2 = 100) {
     return result;
 }
 console.log(divide());
-const square = number => number{
-    return number*number;
+const square = number => {
+    return number * number;
 }
-const add = (number1, number2) => number1+ number2;
+const add = (number1, number2) => number1 + number2;
